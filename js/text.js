@@ -1,4 +1,4 @@
-const texts = ['Welcome to ILM Academy', 'In this App,', 'You will get', 'Notes', 'Books', 'Model Papers', 'and Pairing Scheme']
+const texts = ['Welcome to ILM Academy', 'In this Website/App,', 'You will get', 'Notes', 'Books', 'Model Papers', 'and Pairing Scheme']
 let count = 0;
 let index = 0;
 let currentText = '';
